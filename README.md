@@ -4,6 +4,11 @@
 ![stars-shield](https://img.shields.io/github/stars/btking1/README-Generator?style=for-the-badge)
 ![issues-shield](https://img.shields.io/github/issues/btking1/README-Generator?style=for-the-badge)
 
+
+
+
+
+
 ## Description
    
 Using the employee tracker application, a business is able to manage the employees more efficiently and effectively.
@@ -20,6 +25,10 @@ to accomplish this goal.
 The first step is to clone and install the application as well as its dependencies via git clone and npm init, respectively. 
 Use npm start to start the application! 
 The company's employee database may be to added, viewed, or updated by users.
+
+
+
+
 
 ![SCREENSHOOT](https://github.com/btking1/Employee-Tracker/blob/main/Main-Menu.jpg)
 
