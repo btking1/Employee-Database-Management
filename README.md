@@ -6,7 +6,6 @@
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 
@@ -22,7 +21,6 @@ to accomplish this goal.
         * SQL
         
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 ## Usage
 
@@ -32,13 +30,11 @@ The company's employee database may be to added, viewed, or updated by users.
 
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
 
 
 ![SCREENSHOOT](https://github.com/btking1/Employee-Tracker/blob/main/Main-Menu.jpg)
 [WALKTHROUGH](https://www.youtube.com/watch?v=qRo_qub7lT4)
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 
