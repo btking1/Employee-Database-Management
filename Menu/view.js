@@ -1,5 +1,5 @@
-import { client } from "../index.js";
-import { main } from "../index.js";
+import { client } from "../main.js";
+import { main } from "../main.js";
 
 // handles VIEW funcitonality
 export async function viewResponses(view) {

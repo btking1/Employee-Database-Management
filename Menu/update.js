@@ -1,6 +1,6 @@
 import inquirer from "inquirer";
-import { client } from "../index.js";
-import { main } from "../index.js";
+import { client } from "../main.js";
+import { main } from "../main.js";
 import { Roles } from "./add.js";
 
 // maps and returns all employees

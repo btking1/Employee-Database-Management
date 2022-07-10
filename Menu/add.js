@@ -1,7 +1,7 @@
 import inquirer from "inquirer";
 ("inquirer");
-import { client } from "../index.js";
-import { main } from "../index.js";
+import { client } from "../main.js";
+import { main } from "../main.js";
 
 // maps and returns all managers
 function Managers() {
