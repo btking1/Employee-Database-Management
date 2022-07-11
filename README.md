@@ -1,4 +1,5 @@
-# Employee-Tracker
+# Employee Database Management
+
 ![contributors-shield](https://img.shields.io/github/contributors/btking1/README-Generator?style=for-the-badge)
 ![forks-shield](https://img.shields.io/github/forks/btking1/README-Generator?style=for-the-badge)
 ![stars-shield](https://img.shields.io/github/stars/btking1/README-Generator?style=for-the-badge)
@@ -11,7 +12,7 @@
 
 ## Description
    
-Using the employee tracker application, a business is able to manage the employees more efficiently and effectively.
+Using the Employee Database Management application, a business is able to manage the employees more efficiently and effectively.
 The company structure is organized into a database according to department, role, and employee in order 
 to accomplish this goal.
 
