@@ -34,7 +34,7 @@ The company's employee database may be to added, viewed, or updated by users.
 
 ![SCREENSHOOT](https://github.com/btking1/Employee-Tracker/blob/main/Main-Menu.jpg)
 
-[WALKTHROUGH](https://www.youtube.com/watch?v=qRo_qub7lT4)
+[WALKTHROUGH](https://www.youtube.com/watch?v=2X5GulkRHSw)
 
 <p>&nbsp;</p>
 
